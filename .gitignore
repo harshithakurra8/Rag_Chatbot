@@ -1,0 +1,7 @@
+# Ignore virtual environment
+env/
+
+# Ignore local binaries and Qdrant state
+qdrant.exe
+.qdrant-initialized
+storage/
